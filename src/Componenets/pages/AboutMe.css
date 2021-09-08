@@ -1,0 +1,16 @@
+.wrapper{
+    width: 10%;
+    height: auto;
+    position: relative;
+    top: 0px;
+    left: 820px;
+    align-content: center;
+    border: 3px solid yellow;
+
+}
+.singlePostDesc {
+    color: black;
+    font-size: 32px;
+    line-height: 30px;
+    position: relative;
+}
